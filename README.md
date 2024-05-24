@@ -11,11 +11,12 @@ Below are the questions we'll consider in this project:
 2. **Question 2**: Which market generated the most sales on average?
 3. **Question 3**: What were the profits by segment? Which segment has the most profit?
 
-**Context**
+# Context
 
   **Superstore dataset**
 
-**Metadata**
+# Metadata
+
 1. **Row ID** => Unique ID for each row.
 2. **Order ID** => Unique Order ID for each Customer.
 3. **Order Date** => Order Date of the product.
