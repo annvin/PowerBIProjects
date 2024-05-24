@@ -40,3 +40,12 @@
  19. **Quantity** => Quantity of the Product.
  20. **Discount** => Discount provided.
  21. **Profit** => Profit/Loss incurred.
+
+
+# Project 2: Visualization of Life Expectancy and GDP Variation Over Time
+
+This project includes scatter plots and bar charts to create reports that will provide insight about the dataset including Life Expectancy By Year and GDP Per Capita by Year
+
+ **Dataset**
+
+ Life expectancy dataset which combines data from multiple sources about life expectancy over time for countries and regions around the world.
