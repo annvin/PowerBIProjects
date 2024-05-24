@@ -13,7 +13,7 @@ Below are the questions we'll consider in this project:
 
 **Context**
 
-Superstore dataset
+  **Superstore dataset**
 
 **Metadata**
 1. **Row ID** => Unique ID for each row.
@@ -25,7 +25,7 @@ Superstore dataset
 7. **Customer Name** => Name of the Customer.
 8. **Segment** => The segment where the Customer belongs.
 9. **Country** => Country of residence of the Customer.
-10, **City** => City of residence of of the Customer.
+10. **City** => City of residence of of the Customer.
 11. **State** => State of residence of the Customer.
 12. **Postal Code** => Postal Code of every Customer.
 13. **Region** => Region where the Customer belong.
