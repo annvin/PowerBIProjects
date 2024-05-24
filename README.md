@@ -1,4 +1,4 @@
-# PowerBIpRrojects
+# PowerBIProjects
 
 # Project 1: Sales Data Analysis using Power BI
 
