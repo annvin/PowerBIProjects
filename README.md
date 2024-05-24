@@ -1,5 +1,7 @@
 # PowerBIpRrojects
 
+#Project 1: Sales Data Analysis using Power BI
+
 Sales data modelling can cover aspects like sales, production, customer experience, employee efficiency.
 
 The goal of this project to analyze model and analyze data from a sales records database for scale model cars and then extract information for decision-making.
