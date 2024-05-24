@@ -1,6 +1,6 @@
 # PowerBIpRrojects
 
-#Project 1: Sales Data Analysis using Power BI
+# Project 1: Sales Data Analysis using Power BI
 
 Sales data modelling can cover aspects like sales, production, customer experience, employee efficiency.
 
