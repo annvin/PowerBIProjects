@@ -43,8 +43,7 @@
 
 **Sales Report**
 
-<img width="596" alt="image" src="https://github.com/annvin/PowerBIProjects/assets/42974141/d6b0ce2a-a1f0-43f5-b905-058515dceebf">
-
+<img width="551" alt="image" src="https://github.com/annvin/PowerBIProjects/assets/42974141/54829173-1a31-447d-8108-fd750a7e8422">
 
 
 # Project 2: Visualization of Life Expectancy and GDP Variation Over Time
