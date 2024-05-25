@@ -41,6 +41,11 @@
  20. **Discount** => Discount provided.
  21. **Profit** => Profit/Loss incurred.
 
+**Sales Report**
+
+<img width="596" alt="image" src="https://github.com/annvin/PowerBIProjects/assets/42974141/d6b0ce2a-a1f0-43f5-b905-058515dceebf">
+
+
 
 # Project 2: Visualization of Life Expectancy and GDP Variation Over Time
 
