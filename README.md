@@ -50,6 +50,11 @@ This project includes scatter plots and bar charts to create reports that will p
 
  Life expectancy dataset which combines data from multiple sources about life expectancy over time for countries and regions around the world.
 
+ **Life expectancy report**
+
+ <img width="507" alt="image" src="https://github.com/annvin/PowerBIProjects/assets/42974141/e430d713-995b-442b-8b3c-f4a0eafe29f1">
+
+
 
  
  
